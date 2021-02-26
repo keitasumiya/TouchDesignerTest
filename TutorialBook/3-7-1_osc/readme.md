@@ -78,3 +78,14 @@ def sendValues():
 	return
 ```
 
+
+
+
+
+## ref
+
+ASCIIコード表
+http://www3.nit.ac.jp/~tamura/ex2/ascii.html
+
+バイト型を扱う！Pythonでbytesを扱う方法【初心者向け】 | TechAcademyマガジン
+https://techacademy.jp/magazine/18885
